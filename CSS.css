@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: white;}
+
+
+#Div1 {
+     width: 200px;
+  padding: 10px;
+    background-color: lightyellow;
+  border: 5px solid black;
+  margin: 5px;
+    margin-left: -15px;
+    display: inline-block;
+}
+
+#DivTitolo {
+      width: 100%;
+  padding: 10px;
+  border: 5px solid black;
+  margin: 5px;
+    margin-left: -15px; 
+  background-image: url("SfondoTitolo.jpg"); 
+}
+
+#DivFumetto1 {
+  padding: 0px;
+  border: 0px;
+    height: 375px;
+    width: 268px;
+    margin-left: 0px; 
+    margin-bottom: 0px;
+    margin-top: 0px;
+  background-image: url("Fumetto1.jpg"); 
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#DivFumetto1A {
+    border: 0px solid black;
+    margin-top: 0px;
+    margin-left: 100px; 
+    margin-bottom: 100px;
+    display: inline-block;
+    background-color: skyblue;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+#Ciao {
+    color:red;
+    font-size: 60px
+}
+#Tabella {
+    font-size: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#TestoTabella {
+  font-family: verdana;
+  font-size: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    line-height: 3;
+}
+
+#TestoVendita {
+    font-family: times new roman;
+    font-size: 20px;
+    line-height: 1px;
+    text-align: center
+}
+
+#DivFumetto2 {
+  padding: 0px;
+  border: 0px;
+    height: 375px;
+    width: 268px;
+    margin-left: 0px; 
+    margin-bottom: 0px;
+  background-image: url("Fumetto2.jpg"); 
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#DivFumetto2A {
+    border: 0px solid black;
+    margin-top: 0px;
+    margin-left: 50px; 
+    margin-bottom: 100px;
+    display: inline-block;
+    background-color:skyblue;
+}
+    
+#DivFumetto3 {
+  padding: 0px;
+  border: 0px;
+    height: 375px;
+    width: 268px;
+    margin-left: 0px; 
+    margin-bottom: 0px;
+  background-image: url("Fumetto3.jpg"); 
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#DivFumetto3A {
+    border: 0px solid black;
+    margin-top: 0px;
+    margin-left: 50px; 
+    margin-bottom: 100px;
+    display: inline-block;
+    background-color:skyblue;
+}
+
+#DivFumetto4 {
+  padding: 0px;
+  border: 0px;
+    height: 375px;
+    width: 268px;
+    margin-left: 0px; 
+    margin-bottom: 0px;
+  background-image: url("Fumetto4.jpg"); 
+    background-repeat: no-repeat;
+    display: inline-block;
+}
+
+#DivFumetto4A {
+    border: 0px solid black;
+    margin-top: 0px;
+    margin-left: 50px; 
+    margin-bottom: 100px;
+    display: inline-block;
+    background-color:skyblue;
+}
+</style>
+</head>
+<body>
+</body>
+</html>
+
